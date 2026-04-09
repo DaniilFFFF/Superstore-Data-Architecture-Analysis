@@ -34,6 +34,6 @@
 ## 📫 Контакти
 Якщо у вас є запитання щодо проекту, буду радий поспілкуватися:
 
-* **Telegram:** [@твій_нікнейм](https://t.me/твій_нікнейм)
-* **LinkedIn:** [Твоє Ім'я та Прізвище](посилання_на_профіль)
-* **Email:** твій_мейл@example.com
+* **Telegram:** [@dallluk](https://t.me/dallluk)
+* **LinkedIn:** [Жемальський Данііл](linkedin.com/in/данііл-жемальський-75aa4938b)
+* **Email:** danik.ukraina@gmail.com
